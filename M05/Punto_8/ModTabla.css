@@ -1,0 +1,26 @@
+table{
+    border-collapse: collapse;
+    border: none;
+}
+td
+{
+    background: yellow;
+    border: 0.5px dotted red;
+}
+thead{
+    color: red;
+    background: yellow;
+}
+    
+.BordeDerecho{
+    border-top: 0.5px dotted red;
+    border-bottom: 0.5px dotted red;
+    border-left: 0.5px dotted red;
+    border-right: 0px;
+}
+.BordeIzquierdo{
+    border-top: 0.5px dotted red;
+    border-bottom: 0.5px dotted red;
+    border-right: 0.5px dotted red;
+    border-left: 0px;
+}

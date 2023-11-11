@@ -1,0 +1,19 @@
+.Sub{
+   text-decoration:underline;
+}
+.Azul {
+   color: rgb(2,2,255);
+}
+.NegritaRojo {
+   font-weight: bold;
+   color: rgb(255,2,2);
+}
+.Verde {
+   color: rgb(0,143,57);
+}
+.Tamaño {
+   font-size:30px;
+}
+.Sup{
+   text-decoration:overline;
+}

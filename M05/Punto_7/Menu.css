@@ -1,0 +1,27 @@
+*{
+    color: #EAF0F6;
+    margin: 0px;
+}
+.flex-container {
+    display: flex;
+    background-color: #00A4BD;
+}
+  
+.flex-container > div {
+    margin: 10px 0 10px 0;
+}
+.Boton{
+    border: none;
+    background-color: #00A4BD;
+    color: #EAF0F6;
+    margin: 0 0 0 10px;
+}
+  
+.Elemento{
+    padding: 10px;
+    line-height: 0;
+}
+
+button:hover {
+    background-color: blue;
+}

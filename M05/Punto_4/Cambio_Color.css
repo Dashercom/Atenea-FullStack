@@ -1,0 +1,19 @@
+/*style="color:rgb(2,2,255)"
+  style="color:rgb(255,2,2)"*/
+.Azul {
+    color: rgb(2,2,255);
+    text-align:center;
+}
+ .Rojo {
+    color: rgb(255,2,2);
+    text-align:center;
+ }
+ #Azul {
+    color: rgb(2,2,255);
+    text-align:center;
+ }
+ #Rojo {
+    color: rgb(255,2,2);
+    text-align:center;
+ }
+ 

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora_Punto_1</title>
+</head>
+<body>
+    <h2>Calculadora</h2>
+    <form method="post" action="Operaciones.php">
+        <label>Numero 1</label>
+        <input type="number" name="num1" required><br><br>
+        <label>Numero 2</label>
+        <input type="number" name="num2" required><br><br>
+        <label>Operación: </label>
+        <select name="operacion">
+            <option value="suma">Suma</option>
+            <option value="restar">Restar</option>
+            <option value="multiplicar">Multiplicar</option>
+            <option value="dividir">Dividir</option>
+        </select>
+        <br><br>
+        <input type="submit" name="submit" value="Calcular">
+    </form>
+</body>
+</html>

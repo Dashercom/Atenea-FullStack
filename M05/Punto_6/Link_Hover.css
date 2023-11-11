@@ -1,0 +1,12 @@
+
+.Morado {
+    color: rgb(178,2,160);
+}
+ .Amarillo {
+    color: rgb(247,255,0);
+}
+
+a:hover {
+    background-color: gold;
+    color: rgb(255, 255, 255);
+}
